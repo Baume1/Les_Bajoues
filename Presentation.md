@@ -40,7 +40,7 @@ A modifier\
 > Création de liste de fonctionnalités, des plans de construction de fonctionnalités, et des rapports d'avancement.\
 > **Les normes de codage:**\
 >   
-Les normes de codage sont des règles essentielles pour garantir la qualité et la maintenabilité du code source. Deux principes clés les sous-tendent:
+>Les normes de codage sont des règles essentielles pour garantir la qualité et la maintenabilité du code source. Deux >principes clés les sous-tendent:
 > ***Uniformité du code***
 > Il s'agit d'appliquer des conventions pour la syntaxe, la structure, la nomenclature des variables et des fonctions, etc. Cela assure une cohérence dans le code, simplifie la collaboration entre les membres de l'équipe et diminue les risques d'erreurs.\
 ***Compréhensibilité du code***\
