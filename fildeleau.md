@@ -2,7 +2,7 @@
 # "Architecture" du git
 > Deplacement des anciens fichiers vers un dossier stockage \
 > Ajouts de l'architecture demandée \
-> Tentatives ratées de branch \
+> Tentatives ratées de branch 
 
 # Travail
 > Mathéo a recherché sur différentes source et a formulé les réponses via GPT + lui-même \
@@ -12,4 +12,4 @@
 
 # Difficultées
 > Incompréhension de la façon dont la classe souhaite fonctionner \
-> Commandes git ne fonctionnant pas \
+> Commandes git ne fonctionnant pas 
