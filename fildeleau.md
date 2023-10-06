@@ -9,5 +9,4 @@
 
 ## Difficultées
 > Tentatives ratées de branch \
-> Incompréhension de la façon dont la classe souhaite fonctionner \
 > Commandes git ne fonctionnant pas 
