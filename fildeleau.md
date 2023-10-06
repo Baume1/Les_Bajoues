@@ -43,12 +43,13 @@ A modifier\
  **Les livrables:** \
 > Création de liste de fonctionnalités, des plans de construction de fonctionnalités, et des rapports d'avancement.\
 > **Les normes de codage:**\
+>   
+Les normes de codage sont des règles essentielles pour garantir la qualité et la maintenabilité du code source. Deux principes clés les sous-tendent:
 > ***Uniformité du code***
->Cela inclut la syntaxe, la structure du code, la nomenclature des variables et des fonctions, etc.
-En suivant des normes de codage uniformes, l'équipe de développement garantit que le code source est cohérent, ce qui facilite la collaboration entre les membres de l'équipe. Chacun peut comprendre le code des autres plus facilement, ce qui réduit les erreurs et les conflits potentiels.\
+> Il s'agit d'appliquer des conventions pour la syntaxe, la structure, la nomenclature des variables et des fonctions, etc. Cela assure une cohérence dans le code, simplifie la collaboration entre les membres de l'équipe et diminue les risques d'erreurs.\
 ***Compréhensibilité du code***\
-La documentation du code est un élément clé pour rendre le code compréhensible. Chaque composant logiciel, fonction ou module doit être accompagné de commentaires et de descriptions expliquant son objectif, son fonctionnement, et comment l'utiliser.\
-Les normes de codage et la documentation aident à garantir que le code reste maintenable sur le long terme.
+ La documentation du code joue un rôle crucial en expliquant le but, le fonctionnement et l'utilisation de chaque composant logiciel, grâce à des commentaires et des descriptions. Cette documentation facilite la maintenance du code à long terme en rendant le code accessible aux développeurs actuels et futurs.\
+Ensemble, ces normes de codage et la documentation garantissent la qualité du code, sa cohérence et sa facilité de maintenance.\
 >
 > Source :
 > ChatGPT\
