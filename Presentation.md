@@ -52,6 +52,6 @@ Ensemble, ces normes de codage et la documentation garantissent la qualité du c
 > https://www.lucidchart.com/blog/fr/le-developpement-base-sur-les-fonctionnalites \
 > https://github.com/michaellaunay/NotesPubliques/blob/master/cours/Les%20m%C3%A9thodes%20agiles.md \
 > https://blog.myagilepartner.fr/index.php/2018/04/17/fdd-feature-driven-development/ \
-> https://medium.com/@avishaa27/roles-responsibilities-of-fdd-6e9bcff0141f \
+> https://medium.com/@avishaa27/roles-responsibilities-of-fdd-6e9bcff0141f\
 >https://chat.openai.com/c/a93d46cf-bf51-4436-a5f7-2c01a1d7521e \
 >https://www.wimi-teamwork.com/fr/blog/feature-driven-development-guide-debutant/ 
