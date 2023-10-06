@@ -39,7 +39,7 @@ A modifier\
 >3. Programmeurs : Écrivent, testent et entretiennent le code source, collaborant étroitement avec les autres membres de l'équipe.
 >4. Propriétaires de Classe : Conçoivent et mettent en œuvre des composants spécifiques du système, définissant leurs fonctionnalités et les intégrant au système global.
 >5. Ecrivains de Fonctionnalités : Spécifient en détail les fonctionnalités du système, documentent les exigences fonctionnelles et aident à traduire les besoins des utilisateurs en spécifications techniques.
->D'autres membres peuvent également être présents en fonction des besoins particuliers du projet.
+>D'autres membres peuvent également être présents en fonction des besoins particuliers du projet.\
  **Les livrables:** \
 > Création de liste de fonctionnalités, des plans de construction de fonctionnalités, et des rapports d'avancement.\
 > **Les normes de codage:**\
