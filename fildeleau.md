@@ -34,11 +34,11 @@
 A modifier\
 **Les rôles:**\
 >Dans la méthode FDD (Feature-Driven Development) pour les projets de développement logiciel, voici un résumé des principaux rôles :\
->1. Chef de Projet : Gère le projet, assure le suivi du planning et du budget, coordonne les équipes et communique avec les parties prenantes pour répondre aux besoins.\
->2. Architecte en Chef : Conçoit l'architecture globale du système, prend des décisions techniques importantes pour maintenir la cohérence et la qualité.\
->3. Programmeurs : Écrivent, testent et entretiennent le code source, collaborant étroitement avec les autres membres de l'équipe.\
->4. Propriétaires de Classe : Conçoivent et mettent en œuvre des composants spécifiques du système, définissant leurs fonctionnalités et les intégrant au système global.\
->5. Ecrivains de Fonctionnalités : Spécifient en détail les fonctionnalités du système, documentent les exigences fonctionnelles et aident à traduire les besoins des utilisateurs en spécifications techniques.\
+>1. Chef de Projet : Gère le projet, assure le suivi du planning et du budget, coordonne les équipes et communique avec les parties prenantes pour répondre aux besoins.
+>2. Architecte en Chef : Conçoit l'architecture globale du système, prend des décisions techniques importantes pour maintenir la cohérence et la qualité.
+>3. Programmeurs : Écrivent, testent et entretiennent le code source, collaborant étroitement avec les autres membres de l'équipe.
+>4. Propriétaires de Classe : Conçoivent et mettent en œuvre des composants spécifiques du système, définissant leurs fonctionnalités et les intégrant au système global.
+>5. Ecrivains de Fonctionnalités : Spécifient en détail les fonctionnalités du système, documentent les exigences fonctionnelles et aident à traduire les besoins des utilisateurs en spécifications techniques.
 >D'autres membres peuvent également être présents en fonction des besoins particuliers du projet.
  **Les livrables:** \
 > Création de liste de fonctionnalités, des plans de construction de fonctionnalités, et des rapports d'avancement.\
