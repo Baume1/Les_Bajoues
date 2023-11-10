@@ -28,7 +28,7 @@
 >l'équipe élabore une liste de fonctionnalités ou de caractéristiques du logiciel. Ces fonctionnalités sont souvent décrites de manière détaillée et priorisées en fonction de leur importance pour le projet.\
 > **Planifier par fonctionnalité**
 > 
-> Une fois que la liste des fonctionnalités est établie, l'équipe de développement planifie la réalisation de chaque fonctionnalité. Cela implique de définir les tâches nécessaires, d'estimer les ressources et le temps requis, et de créer un plan de développement.
+> Une fois que la liste des fonctionnalités est établie, l'équipe de développement planifie la réalisation de chaque fonctionnalité. Cela implique de définir les tâches nécessaires, d'estimer les ressources et le temps requis, et de créer un plan de développement.\
 > **Concevoir par fonctionnalité**
 > L'équipe de développement se concentre sur la conception détaillée de chaque fonctionnalité. Cela peut inclure la création de diagrammes de conception, de maquettes, et d'autres artefacts pour clarifier la manière dont chaque fonctionnalité sera implémentée.
 
