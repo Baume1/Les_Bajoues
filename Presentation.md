@@ -12,17 +12,17 @@
 ## Quel sont les différents componsantes du FDD :
 **Les fonctionnalités**
 > Les fonctionnalités sont généralement exprimées dans la forme "action - résultat - objet" \
-> Exemple : "Envoyer - une notification par e-mail - pour les utilisateurs inscrits" Trouver grâce à ChatGPT \
+> Exemple : "Envoyer - une notification par e-mail - pour les utilisateurs inscrits" \
 > Si une fonctionnalité ne peut être mise en œuvre en deux semaines, elle doit être décomposée en éléments plus petits et gérables \
 > **Le processus de développement:**\
 > **Développer une compréhension globale**\
-> l'équipe de développement acquiert une compréhension globale des besoins du client, de l'objectif du projet et de l'environnement dans lequel le logiciel sera déployé. Cela inclut la collecte d'exigences initiales et la définition des grandes lignes du projet.
+> L'équipe de développement acquiert une compréhension globale des besoins du client, de l'objectif du projet et de l'environnement dans lequel le logiciel sera déployé. Cela inclut la collecte d'exigences initiales et la définition des grandes lignes du projet.
 
->**Construire une liste de fonctionnalités**\
+> **Construire une liste de fonctionnalités**\
 >l'équipe élabore une liste de fonctionnalités ou de caractéristiques du logiciel. Ces fonctionnalités sont souvent décrites de manière détaillée et priorisées en fonction de leur importance pour le projet.\
->**Planifier par fonctionnalité**
+> **Planifier par fonctionnalité**
 > Une fois que la liste des fonctionnalités est établie, l'équipe de développement planifie la réalisation de chaque fonctionnalité. Cela implique de définir les tâches nécessaires, d'estimer les ressources et le temps requis, et de créer un plan de développement.
->**Concevoir par fonctionnalité**
+> **Concevoir par fonctionnalité**
 >L'équipe de développement se concentre sur la conception détaillée de chaque fonctionnalité. Cela peut inclure la création de diagrammes de conception, de maquettes, et d'autres artefacts pour clarifier la manière dont chaque fonctionnalité sera implémentée.
 
 >**Construire par fonctionnalité**
@@ -39,7 +39,6 @@ A modifier\
  **Les livrables:** \
 > Création de liste de fonctionnalités, des plans de construction de fonctionnalités, et des rapports d'avancement.\
 > **Les normes de codage:**\
->   
 >Les normes de codage sont des règles essentielles pour garantir la qualité et la maintenabilité du code source. Deux >principes clés les sous-tendent:
 > ***Uniformité du code***
 > Il s'agit d'appliquer des conventions pour la syntaxe, la structure, la nomenclature des variables et des fonctions, etc. Cela assure une cohérence dans le code, simplifie la collaboration entre les membres de l'équipe et diminue les risques d'erreurs.\
