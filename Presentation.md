@@ -37,7 +37,7 @@
 >Dans cette étape, l'équipe de développement commence réellement à coder et à construire les fonctionnalités une par une. Chaque fonctionnalité est développée, testée et intégrée au logiciel global au fur et à mesure.
 A modifier\
 **Les rôles:**\
->Dans la méthode FDD (Feature-Driven Development) pour les projets de développement logiciel, voici un résumé des principaux rôles :\
+>Dans la méthode FDD (Feature-Driven Development) pour les projets de développement logiciel, voici un résumé des principaux rôles :
 >1. Chef de Projet : Gère le projet, assure le suivi du planning et du budget, coordonne les équipes et communique avec les parties prenantes pour répondre aux besoins.
 >2. Architecte en Chef : Conçoit l'architecture globale du système, prend des décisions techniques importantes pour maintenir la cohérence et la qualité.
 >3. Programmeurs : Écrivent, testent et entretiennent le code source, collaborant étroitement avec les autres membres de l'équipe.
