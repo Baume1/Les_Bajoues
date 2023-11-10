@@ -1,3 +1,8 @@
+# Histoire
+> La méthode FDD a été conçue par Jeff De Luca en 1997 pour répondre au besoin de la banque de Singapour sur un projet de 15 mois avec 50 employés. \
+> Elle a été inspirée par l'approche de la modélisation d'objets de Peter Coad. \
+> La description de FDD a été mentionnée dans le monde dans le chapitre 6 du livre Java Modeling in Color with UML de Peter Coad, Eric Lefebvre et Jeff De Luca en 1999. En 2002, dans le livre de Stephen Palmer et Mac Felsing A Practical Guide to Feature-Driven Development, une description plus générale de FDD a été donnée, découplée de la modélisation Java.
+
 # Recherche d'exemple 
 > Recherche d'exemples pour mieux comprendre la méthode et son fonctionnement \
 > Utilisation de chatGPT \
