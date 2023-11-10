@@ -17,7 +17,6 @@
 > Si une fonctionnalité ne peut être mise en œuvre en deux semaines, elle doit être décomposée en éléments plus petits et gérables \
 > **Le processus de développement:**\
 > **Développer une compréhension globale**\
-> 
 > L'équipe de développement acquiert une compréhension globale des besoins du client, de l'objectif du projet et de l'environnement dans lequel le logiciel sera déployé. Cela inclut la collecte d'exigences initiales et la définition des grandes lignes du projet.
 
 > **Construire une liste de fonctionnalités**\
@@ -41,10 +40,10 @@ A modifier\
 >4. Propriétaires de Classe : Conçoivent et mettent en œuvre des composants spécifiques du système, définissant leurs fonctionnalités et les intégrant au système global.
 >5. Ecrivains de Fonctionnalités : Spécifient en détail les fonctionnalités du système, documentent les exigences fonctionnelles et aident à traduire les besoins des utilisateurs en spécifications techniques.
 >D'autres membres peuvent également être présents en fonction des besoins particuliers du projet.\
- **Les livrables:** \
+ **Les livrables:**\
 > Création de liste de fonctionnalités, des plans de construction de fonctionnalités, et des rapports d'avancement.\
 > **Les normes de codage:**\
->Les normes de codage sont des règles essentielles pour garantir la qualité et la maintenabilité du code source. Deux >principes clés les sous-tendent:
+> Les normes de codage sont des règles essentielles pour garantir la qualité et la maintenabilité du code source. Deux >principes clés les sous-tendent:
 > ***Uniformité du code***\
 > Il s'agit d'appliquer des conventions pour la syntaxe, la structure, la nomenclature des variables et des fonctions, etc. Cela assure une cohérence dans le code, simplifie la collaboration entre les membres de l'équipe et diminue les risques d'erreurs.\
 ***Compréhensibilité du code***\
